@@ -68,7 +68,7 @@
 .left-col {
   margin-right: 1.333%;
   display: inline-block;
-  width: 30%; 
+  width: 32%; 
 }
 
 .main {
@@ -85,7 +85,7 @@
 
 .mid-col {
   display: inline-block;
-  width: 30%;
+  width: 32%;
 }
 
 .right-col {
@@ -93,7 +93,7 @@
   top: 0;
   margin-left: 1.333%;
   display: inline-block;
-  width: 30%; 
+  width: 32%; 
   background-color: white;
 }
 
