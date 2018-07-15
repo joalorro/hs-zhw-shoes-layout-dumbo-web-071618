@@ -66,10 +66,11 @@
 }
 
 .main {
-  height:101.5%;
+  height:105%;
   display: inline-block;
   width:66%;
   margin-right:2%;
+  
 }
 
 .mid-col {
