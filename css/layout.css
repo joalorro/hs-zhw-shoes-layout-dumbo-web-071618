@@ -65,6 +65,10 @@
   float:right;
 }
 
+.footer {
+  box-sizing: border-box;
+}
+
 .left-col {
   display: inline-block;
   width: 32%; 
