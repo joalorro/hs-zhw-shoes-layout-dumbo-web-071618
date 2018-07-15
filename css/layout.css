@@ -66,6 +66,7 @@
 }
 
 .left-col {
+  box-sizing: border-box;
   display: inline-block;
   width: 32%; 
 }
@@ -82,13 +83,14 @@
 }
 
 .mid-col {
-  box-sizing: 
+  box-sizing: border-box;
   display: inline-block;
   width: 32%;
   margin: 0 auto;
 }
 
 .right-col {
+  box-sizing: border-box;
   float:right;
   display: inline-block;
   width: 32%; 
