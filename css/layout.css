@@ -82,10 +82,10 @@
 }
 
 .mid-col {
+  box-sizing: 
   display: inline-block;
   width: 32%;
   margin: 0 auto;
-  padding-left: 2%;
 }
 
 .right-col {
