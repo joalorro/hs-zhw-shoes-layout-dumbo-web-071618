@@ -32,7 +32,6 @@
 }
 
 .deals {
-  box-sizing: border-box;
   display:block;
   clear:both;
   width: 100%;
