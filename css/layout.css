@@ -79,6 +79,10 @@
   margin-right:2%;
 }
 
+.main.shadow {
+  height:100%;
+}
+
 .mid-col {
   display: inline-block;
   width: 30%;
