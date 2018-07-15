@@ -24,13 +24,6 @@
 
 /* Posititoning Classes */
 
-.clearfix {
-  content: ".";
-  display: block;
-  clear:both;
-  
-}
-
 .deals {
   clear:both;
   width: 100%;
