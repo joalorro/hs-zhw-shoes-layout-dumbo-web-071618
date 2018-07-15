@@ -55,6 +55,7 @@
   box-sizing: border-box;
   display: inline-block;
   width: 32%; 
+  margin: 0 1%;
 }
 
 .fig-3 {
