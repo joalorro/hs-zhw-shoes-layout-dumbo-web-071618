@@ -89,8 +89,7 @@
 }
 
 .right-col {
-  position:relative;
-  top: 0;
+  float:right;
   display: inline-block;
   width: 32%; 
   background-color: white;
